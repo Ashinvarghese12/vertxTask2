@@ -26,26 +26,26 @@ export default function Overview() {
                     <div className="msx:block hidden bg-black rounded-lg min-w-[430px] h-[198.48px] mb-[14.89px] border-[1px] border-[#272727]">
                         <div className="flex ">
                             <div className="pt-[45.13px] pb-[33.35px] ps-[44.67px] pe-[33px]">
-                                <img src="/images/person.svg" alt="person" className="h-[120px] w-[120px]" />
+                                <img src="./images/person.svg" alt="person" className="h-[120px] w-[120px]" />
                             </div>
                             <div className="flex flex-col pt-[28.13px] pb-[29.05px]">
                                 <span className="flex gap-[150px]">
                                     <p className="text-[24px] font-[700] text-white">Mr. A</p>
-                                    <img src="/images/TwitterBadge.svg" alt="badge" className="h-[20px] w-[20px]" />
+                                    <img src="./images/TwitterBadge.svg" alt="badge" className="h-[20px] w-[20px]" />
                                 </span>
                                 <span className="flex gap-1 pb-[13.12px]">
                                     <p className="text-[12px] font-[500] text-white">Co-Founder & CEO @Vertx</p>
                                     <div className="flex items-center  bg-white w-[11px] h-[11px] rounded">
-                                        <img src="/images/Group 7.svg" alt="logoBadge" className="h-[7.99px] w-[7.99px]" />
+                                        <img src="./images/Group 7.svg" alt="logoBadge" className="h-[7.99px] w-[7.99px]" />
                                     </div>
                                 </span>
                                 <span className="bg-white rounded-[2px] px-[4.29px] pt-[1px] pb-[2px] w-[72.4px] ">
                                     <p className="text-[8px] font-[500] text-black">Entrepreneur</p>
                                 </span>
                                 <div className="flex gap-2 pt-[32.11px]">
-                                    <img src="/images/Rectangle 26.svg" alt="logoBadge" className="h-[30px] w-[30px]" />
-                                    <img src="/images/twitter-logo-2 1.svg" alt="logoBadge" className="h-[31px] w-[31px]" />
-                                    <img src="/images/gmail.svg" alt="logoBadge" className="h-[30px] w-[30px]" />
+                                    <img src="./images/Rectangle 26.svg" alt="logoBadge" className="h-[30px] w-[30px]" />
+                                    <img src="./images/twitter-logo-2 1.svg" alt="logoBadge" className="h-[31px] w-[31px]" />
+                                    <img src="./images/gmail.svg" alt="logoBadge" className="h-[30px] w-[30px]" />
                                 </div>
                             </div>
 
@@ -58,17 +58,17 @@ export default function Overview() {
                     <div className="msx:hidden block bg-black rounded-lg  h-[270px] mb-[10px] border-[1px] border-[#272727]">
                         <div className="flex flex-col">
                             <div className="pt-[19px] pb-[13.93px] pe-[30px]">
-                                <img src="/images/person.svg" alt="person" className="h-[135px] w-[135px]" />
+                                <img src="./images/person.svg" alt="person" className="h-[135px] w-[135px]" />
                             </div>
                             <div className="flex flex-col ps-[22px]">
                                 <span className="flex gap-[120px] ">
                                     <p className="text-[24px] font-[700] text-white">Mr. ABC</p>
-                                    <img src="/images/TwitterBadge.svg" alt="badge" className="h-[20px] w-[20px]" />
+                                    <img src="./images/TwitterBadge.svg" alt="badge" className="h-[20px] w-[20px]" />
                                 </span>
                                 <span className="flex gap-1 pb-[13.12px]">
                                     <p className="text-[12px] font-[500] text-white">Co-Founder & CEO @Vertx</p>
                                     <div className="flex items-center  bg-white w-[11px] h-[11px] rounded">
-                                        <img src="/images/Group 7.svg" alt="logoBadge" className="h-[7.99px] w-[7.99px]" />
+                                        <img src="./images/Group 7.svg" alt="logoBadge" className="h-[7.99px] w-[7.99px]" />
                                     </div>
                                 </span>
                                 <div className="flex justify-between">
@@ -76,9 +76,9 @@ export default function Overview() {
                                         <p className="text-[8px] font-[500] text-black">Entrepreneur</p>
                                     </span>
                                     <div className="flex gap-2 pe-[50px]">
-                                        <img src="/images/Rectangle 26.svg" alt="logoBadge" className="h-[18px] w-[18px]" />
-                                        <img src="/images/twitter-logo-2 1.svg" alt="logoBadge" className="h-[18px] w-[18px]" />
-                                        <img src="/images/gmail.svg" alt="logoBadge" className="h-[18px] w-[18px]" />
+                                        <img src="./images/Rectangle 26.svg" alt="logoBadge" className="h-[18px] w-[18px]" />
+                                        <img src="./images/twitter-logo-2 1.svg" alt="logoBadge" className="h-[18px] w-[18px]" />
+                                        <img src="./images/gmail.svg" alt="logoBadge" className="h-[18px] w-[18px]" />
                                     </div>
                                 </div>
                             </div>
@@ -98,7 +98,7 @@ export default function Overview() {
                                 <div className="flex items-center justify-between">
                                     <div className="flex items-center gap-3">
                                         <div className="flex items-center justify-center bg-white w-8 h-8 rounded">
-                                            <img src="/images/Group 7.svg" alt="logoBadge" className="h-[18.72px] w-[18.72px]" />
+                                            <img src="./images/Group 7.svg" alt="logoBadge" className="h-[18.72px] w-[18.72px]" />
                                         </div>
                                         <div>
                                             <div className="flex items-center gap-[8.78px]">
